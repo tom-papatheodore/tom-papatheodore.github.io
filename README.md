@@ -1,3 +1,3 @@
 # Tom Papatheodore
 
-![me](./assets/images.tom1.jpg)
+![me](/assets/images/tom1.jpg)
